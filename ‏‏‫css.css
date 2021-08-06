@@ -1,0 +1,38 @@
+#t{
+    height: 50px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+#ch{
+    width:  50%;
+    text-align: center;
+    background-color:rgb(255, 0, 221);
+    margin: auto;
+    box-shadow: 10px 10px 5px grey;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}  
+    
+
+
+
+body{
+    background-color:aqua;
+
+
+}
+
+#t a {
+    padding: 5px;
+    display: inline-block;
+
+}
+
+
+
+.l{
+    margin: 15px;
+    background-color:rgb(255, 255, 255);
+    padding: 5px;
+    
+}
